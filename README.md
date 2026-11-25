@@ -19,8 +19,8 @@
 
 | 平台 | 文件 | 说明 |
 | --- | --- | --- |
-| macOS | `通用质量设计平台-0.9.0-macOS.zip` | 通用二进制（Apple Silicon + Intel），已签名 |
-| Windows | `通用质量设计平台-0.9.0-Windows-x64.zip` | x64 便携版，解压即用 |
+| macOS | `QualityDesignPlatform-0.9.0-macOS.zip` | 通用二进制（Apple Silicon + Intel），已签名 |
+| Windows | `QualityDesignPlatform-0.9.0-Windows-x64.zip` | x64 便携版，解压即用 |
 
 下载地址：[GitHub Releases](https://github.com/frefire1/quality-design-platform/releases)
 
